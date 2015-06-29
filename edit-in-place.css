@@ -1,0 +1,64 @@
+body {
+	height: 100%;
+	width: 100%;
+	background-color: #E6E6E6;
+}
+
+.filler-image {
+	width: 225px;
+	height: 225px;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.name-margin {
+	margin: 0;
+
+}
+
+.name-date {
+	text-align: right;
+	display: inline-block;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+.page-container {
+	padding: 10px;
+	max-width: 500px;
+	background-color: #F5F5F5;
+	max-width: 600px;
+	margin: 0 auto;
+
+}
+
+.text-align {
+	text-align: center;
+}
+
+.paragraph {
+	border-top: 1px solid black;
+
+}
+
+.media-image {
+	float: left;
+	padding-right: 5px;
+}
+
+.cupcake {
+	overflow: hidden;	 
+}
+
+.nested {
+	margin-left: 50px;
+	overflow: hidden;
+}
+
+.nested-image {
+	margin-left: 50px;
+}
+
+.editable {
+
+}
